@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto: hibler.10@osu.edu".
+  link: '#contact'  # For a direct email link, use "mailto:hibler.10@osu.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DavidHibler4
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=KQnoRtkAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/david-hibler-2337179
