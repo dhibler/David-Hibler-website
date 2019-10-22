@@ -52,6 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/david-hibler-2337179
 - icon: github
   icon_pack: fab
   link: https://github.com/dhibler
@@ -60,6 +63,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: 'files/Hibler_CV.pdf'
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
