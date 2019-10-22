@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: David A. Hibler
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ohio State University
+  url: "www.osu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include group dynamics, evolution of complexity and public health.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psychology
+- Evolution
+- Specialization
+- Interdependance
 
 education:
   courses:
