@@ -5,7 +5,7 @@
 ## Theme
 ############################
 
-# Choose a theme.
+'# Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
@@ -97,22 +97,23 @@ address = {street = "1841 Neil Ave", city = "Columbus", region = "OH", postcode 
 coordinates = {latitude = "39.998680", longitude = "-83.017063"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 400 on Floor 4"
+directions = "Enter Cunz Hall and take the stairs or elevator to office 400 on Floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Monday 1:00 to 2:00", "Tuseday 1:30 to 3:30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/DavidHibler4"},
+  {icon = "linkedin", icon_pack = "fab", name = "Message Me", link = "https://www.linkedin.com/in/david-hibler-2337179/"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
