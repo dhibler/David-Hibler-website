@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Public Health, Environmental Health Sciences
+  - course: MS/PhD in Public Health, Environmental Health Sciences
     institution: Ohio State University
     year: In progress
   - course: BS Biology
