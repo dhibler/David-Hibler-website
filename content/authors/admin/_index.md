@@ -21,6 +21,8 @@ organizations:
 bio: My research interests include group dynamics, evolution of complexity and public health.
 
 interests:
+- Public Health
+- Group Dynamics
 - Psychology
 - Evolution
 - Specialization
