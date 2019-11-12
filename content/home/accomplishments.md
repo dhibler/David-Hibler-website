@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "Center for Advancing Microbial Risk Assessment"
+  organization_url = ""
+  title = "Quantitative Microbial Risk Assessment"
+  url = "http://camra.msu.edu/"
+  certificate_url = ""
+  date_start = "2017-07-26"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Ohio State University"
   organization_url = ""
   title = "Veteran Community Advocate"
@@ -71,7 +81,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "U.S. Army"
   organization_url = ""
-  title = "  The National Defense Service Medal"
+  title = "The National Defense Service Medal"
   url = ""
   certificate_url = ""
   date_start = "2013-01-05"
