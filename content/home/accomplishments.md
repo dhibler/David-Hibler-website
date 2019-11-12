@@ -19,33 +19,193 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Ohio State University"
+  organization_url = ""
+  title = "Sesquicentennial Scholar"
+  url = "https://150.osu.edu/scholarship.html"
+  certificate_url = ""
+  date_start = "2018-08-13"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Ohio State University"
+  organization_url = ""
+  title = "Veteran Community Advocate"
+  url = "https://veterans.osu.edu/Pages/Community-Advocates-Meet-Our-Advocates.aspx"
+  certificate_url = ""
+  date_start = "2016-08-13"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Bronze Star"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
   description = ""
-
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "  The Army Commendation Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = "Awarded on 3 separate occasions"
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Army Good Conduct Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "  The National Defense Service Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Global War on Terrorism Service Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Iraq Campaign Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Army Service Ribbon"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Overseas Service Ribbon"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio Army National Guard"
+  organization_url = ""
+  title = "The Ohio Award of Merit"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio Army National Guard"
+  organization_url = ""
+  title = "The Ohio Faithful Service Ribbon"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio Army National Guard"
+  organization_url = ""
+  title = "The Army Reserve Component Achievement Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio Army National Guard"
+  organization_url = ""
+  title = "The Armed Forces Reserve Medal with M Device"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""  
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "The Meritorious Unit Citation with Oak Leaf Cluster"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "U.S. Army"
+  organization_url = ""
+  title = "3rd Med Com Combat Patch"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio Army National Guard"
+  organization_url = ""
+  title = "684th Area Support Medical Company Noncommissioned Officer of the year"
+  url = ""
+  certificate_url = ""
+  date_start = "2008-08-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio State University"
+  organization_url = ""
+  title = "Veterans Graduation Cord"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-04-12"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ohio Health"
+  organization_url = ""
+  title = "Keys of Excellence in Service"
+  url = ""
+  certificate_url = ""
+  date_start = "2002-02-01"
+  date_end = ""
+  description = "Awarded on 4 separate occasions"
+ 
 +++
