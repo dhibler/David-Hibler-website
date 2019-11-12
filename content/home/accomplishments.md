@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "U.S. Army"
   organization_url = ""
-  title = "  The Army Commendation Medal"
+  title = "The Army Commendation Medal"
   url = ""
   certificate_url = ""
   date_start = "2013-01-05"
