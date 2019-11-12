@@ -191,7 +191,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Ohio Army National Guard"
   organization_url = ""
-  title = "684th Area Support Medical Company Noncommissioned Officer of the year"
+  title = "684th ASMC Noncommissioned Officer of the year"
   url = ""
   certificate_url = ""
   date_start = "2008-08-01"
